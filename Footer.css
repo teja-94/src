@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
+
+* {
+  font-family: Roboto;
+}
+
+
+.footer-text {
+  text-align: center;
+  
+}
+
+.footer-div {
+  margin-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
